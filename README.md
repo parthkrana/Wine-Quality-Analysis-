@@ -1,4 +1,4 @@
-# Wine-Quality-Analysis-
+# Wine-Quality-Analysis
 
 ##### When it comes to determining the quality of the greatest bottle of red wine, a few scientific factors and a few essential signals can provide an instant response. When it comes to winemaking in general, the obvious element is that the grape comes first. The grape is one-of-a-kind and a vital ingredient in deciding how wine is graded. Unlike white wine, which isn't fermented with grape skins and seeds, red wine gets a lot of its flavor, texture, taste, fragrance, and overall quality from the grape skins, which provide the wine with acidity as it ages. Volatile acidity, residual sugar fixed acidity, citric acid, and total sulfur
 
